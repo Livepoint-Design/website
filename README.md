@@ -1,4 +1,5 @@
-Livepoint
+Livepoint.pl
 =======
 
-website
+Our website, hosted on GitHub. 
+Octocat rule ;]
