@@ -1,0 +1,53 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="false">
+  <folder name="assets">
+    <file name="1387936391_down4.svg" crc="203262240" mt="1387914784000"/>
+    <file name="a_long_way.wmv" crc="118780632" mt="1220298874000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3847176362"/>
+    <file name="index.css" crc="211352900" ref="index"/>
+    <file name="contact.css" crc="4137273186" ref="contact"/>
+    <file name="projects.css" crc="4250777171" ref="projects"/>
+    <file name="potfolio.css" crc="477050229" ref="potfolio"/>
+    <file name="iefonts_potfolio.css" crc="3964173471" ref="potfolio"/>
+    <file name="newspaper.css" crc="4023102259" ref="newspaper"/>
+    <file name="iefonts_newspaper.css" crc="468796437" ref="newspaper"/>
+    <file name="jingles.css" crc="4138810585" ref="jingles"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:projects:newspaper:potfolio:jingles"/>
+    <file name="museutils.js" crc="3865766194" ref="index:contact:projects:newspaper:potfolio:jingles"/>
+    <file name="pie.js" crc="3827607177" ref="index:contact:projects:newspaper:potfolio:jingles"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:contact:projects:newspaper:potfolio:jingles"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3937082470" ref="jingles"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 1000x1000.jpg" crc="343094481" ref="index"/>
+    <file name="u74-4.png" crc="424508914" ref="index"/>
+    <file name="pasted image 450x473.jpg" crc="174764763" ref="contact"/>
+    <file name="u206-4.png" crc="426337619" ref="projects"/>
+    <file name="u437-4.png" crc="385255900" ref="newspaper"/>
+    <file name="seedling.jpg" crc="3909775945" ref="newspaper:potfolio"/>
+    <file name="1387908265_down4.png" crc="3908394181" ref="index"/>
+    <file name="office_lamp-512.png" crc="4029601397" ref="index"/>
+    <file name="google_plus-50.png" crc="3880861282" ref="contact"/>
+    <file name="facebook-50.png" crc="4241078837" ref="contact"/>
+    <file name="linkedin-50.png" crc="238682081" ref="contact"/>
+    <file name="pinterest-50.png" crc="4247444530" ref="contact"/>
+    <file name="twitter-50.png" crc="3802817573" ref="contact"/>
+    <file name="cinema-display.png" crc="95600383" ref="newspaper:potfolio"/>
+    <file name="u592-4.png" crc="385255900" ref="potfolio"/>
+    <file name="u615-4.png" crc="3922423398" ref="contact"/>
+    <file name="u686-4.png" crc="4045830503" ref="jingles"/>
+  </folder>
+  <file name="index.html" crc="3821781040" mt="1388014553730" redirect="true"/>
+  <file name="contact.html" crc="3972105625" mt="1388004282004" redirect="true"/>
+  <file name="projects.html" crc="26820660" mt="1388014774194" redirect="true"/>
+  <file name="newspaper.html" crc="3934751285" mt="1388004161640" redirect="true"/>
+  <file name="potfolio.html" crc="3922597225" mt="1388004202701" redirect="true"/>
+  <file name="jingles.html" crc="245891756" mt="1388015794366" redirect="true"/>
+</manifest>
