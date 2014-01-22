@@ -13,152 +13,266 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://livepoint.pl/scripts/form_check.php</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/scripts/form_throttle.php</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/scripts/form-u1694.php</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://livepoint.pl/images/pasted%20image%201000x1000.jpg</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/office_lamp-512.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/u74-4.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/1387908265_down4.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/u206-4.png</loc>
-    <lastmod>2013-12-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://livepoint.pl/images/cinema-display.png</loc>
-    <lastmod>2013-12-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://livepoint.pl/images/u437-4.png</loc>
-    <lastmod>2013-12-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://livepoint.pl/images/seedling.jpg</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/u592-4.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/pasted%20image%20450x473.jpg</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/u615-4.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/google_plus-50.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/facebook-50.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/linkedin-50.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/pinterest-50.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/twitter-50.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/u686-4.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/images/u725-4.png</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u760-4.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u786-4.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u1406-4.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/slit%20shadow%202%20sharp.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u1700-17.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u1700-17-r.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u1700-17-m.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u1700-17-fs.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/imac_ww.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/imac_bekart.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u1479-4.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/imac_ewa.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u1507-4.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u1576-4.png</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/images/u1573-4.png</loc>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/index.html</loc>
-    <lastmod>2013-12-26</lastmod>
+    <lastmod>2014-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/projects.html</loc>
-    <lastmod>2013-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://livepoint.pl/newspaper.html</loc>
-    <lastmod>2013-12-26</lastmod>
+    <lastmod>2014-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/potfolio.html</loc>
-    <lastmod>2013-12-27</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/contact.html</loc>
-    <lastmod>2013-12-26</lastmod>
+    <lastmod>2014-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/jingles.html</loc>
-    <lastmod>2013-12-26</lastmod>
+    <lastmod>2014-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://livepoint.pl/blog.html</loc>
-    <lastmod>2013-12-28</lastmod>
+    <lastmod>2014-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/404.html</loc>
+    <lastmod>2014-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/wiadomosci-wrzesinskie.html</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/bekart.html</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/ewa-gadomska.html</loc>
+    <lastmod>2014-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://livepoint.pl/about-us.html</loc>
+    <lastmod>2014-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

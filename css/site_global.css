@@ -149,6 +149,17 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.Headline
+{
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 30px;
+	text-align: center;
+	padding: 0px;
+}
+
 .TabbedPanelsTab
 {
 	white-space: nowrap;

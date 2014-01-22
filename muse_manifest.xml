@@ -1,41 +1,48 @@
 <manifest alg="2" build="314" opt="false" iceEnabled="false">
-  <folder name="css">
-    <file name="site_global.css" crc="3847176362"/>
-    <file name="projects.css" crc="4255129816" ref="projects"/>
-    <file name="potfolio.css" crc="3792741746" ref="potfolio"/>
-    <file name="iefonts_potfolio.css" crc="4157564214" ref="potfolio"/>
-    <file name="newspaper.css" crc="4023102259" ref="newspaper"/>
-    <file name="iefonts_newspaper.css" crc="468796437" ref="newspaper"/>
-    <file name="jingles.css" crc="3991255652" ref="jingles"/>
-    <file name="index.css" crc="25198434" ref="index"/>
-    <file name="blog.css" crc="4173261764" ref="blog"/>
-    <file name="iefonts_blog.css" crc="4194711570" ref="blog"/>
-    <file name="contact.css" crc="4137273186" ref="contact"/>
-  </folder>
   <folder name="assets">
     <file name="1387936391_down4.svg" crc="203262240" mt="1387914784000"/>
     <file name="a_long_way.wmv" crc="118780632" mt="1220298874000"/>
   </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="500140366"/>
+    <file name="index.css" crc="3860325735" ref="index"/>
+    <file name="jingles.css" crc="3991255652" ref="jingles"/>
+    <file name="blog.css" crc="3942433887" ref="blog"/>
+    <file name="404.css" crc="3890735674" ref="404"/>
+    <file name="iefonts_404.css" crc="3883544215" ref="404"/>
+    <file name="projects.css" crc="4009612188" ref="projects"/>
+    <file name="potfolio.css" crc="420383471" ref="potfolio"/>
+    <file name="contact.css" crc="11045242" ref="contact"/>
+    <file name="wiadomosci-wrzesinskie.css" crc="4110232926" ref="wiadomosci-wrzesinskie"/>
+    <file name="iefonts_wiadomosci-wrzesinskie.css" crc="257156303" ref="wiadomosci-wrzesinskie"/>
+    <file name="iefonts_contact.css" crc="3782218526" ref="contact"/>
+    <file name="bekart.css" crc="217731895" ref="bekart"/>
+    <file name="iefonts_bekart.css" crc="17564456" ref="bekart"/>
+    <file name="about-us.css" crc="3828101340" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="476097402" ref="about-us"/>
+    <file name="ewa-gadomska.css" crc="3789908914" ref="ewa-gadomska"/>
+    <file name="iefonts_ewa-gadomska.css" crc="78931467" ref="ewa-gadomska"/>
+  </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:newspaper:potfolio:contact:jingles:blog"/>
-    <file name="museutils.js" crc="3865766194" ref="index:projects:newspaper:potfolio:contact:jingles:blog"/>
-    <file name="pie.js" crc="3827607177" ref="index:projects:newspaper:potfolio:contact:jingles:blog"/>
-    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:potfolio:contact:jingles:blog:404:wiadomosci-wrzesinskie:bekart:ewa-gadomska:about-us"/>
+    <file name="museutils.js" crc="3865766194" ref="index:projects:potfolio:contact:jingles:blog:404:wiadomosci-wrzesinskie:bekart:ewa-gadomska:about-us"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:projects:potfolio:contact:jingles:blog:404:wiadomosci-wrzesinskie:bekart:ewa-gadomska:about-us"/>
+    <file name="pie.js" crc="3827607177" ref="index:projects:potfolio:contact:jingles:blog:404:wiadomosci-wrzesinskie:bekart:ewa-gadomska:about-us"/>
+    <file name="webpro.js" crc="3903299128" ref="index:contact"/>
     <file name="musewpslideshow.js" crc="138381373" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
     <file name="touchswipe.js" crc="4156838003" ref="index"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:projects:newspaper:potfolio:contact:jingles:blog"/>
     <file name="jquery.scrolleffects.js" crc="3937082470" ref="jingles"/>
+    <file name="form_check.php" crc="4257733307" ref="contact"/>
+    <file name="form_throttle.php" crc="3966014863" ref="contact"/>
+    <file name="form-u1694.php" crc="4173570999" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="pasted image 1000x1000.jpg" crc="343094481" ref="index"/>
     <file name="office_lamp-512.png" crc="4029601397" ref="index"/>
     <file name="u74-4.png" crc="424508914" ref="index"/>
-    <file name="1387908265_down4.png" crc="3908394181" ref="index"/>
+    <file name="1387908265_down4.png" crc="3908394181" ref="index:potfolio:wiadomosci-wrzesinskie:bekart:ewa-gadomska"/>
     <file name="u206-4.png" crc="426337619" ref="projects"/>
-    <file name="cinema-display.png" crc="95600383" ref="newspaper:potfolio"/>
-    <file name="u437-4.png" crc="385255900" ref="newspaper"/>
-    <file name="seedling.jpg" crc="3909775945" ref="newspaper:potfolio"/>
     <file name="u592-4.png" crc="385255900" ref="potfolio"/>
     <file name="pasted image 450x473.jpg" crc="174764763" ref="contact"/>
     <file name="u615-4.png" crc="3922423398" ref="contact"/>
@@ -46,12 +53,31 @@
     <file name="twitter-50.png" crc="3802817573" ref="contact"/>
     <file name="u686-4.png" crc="4045830503" ref="jingles"/>
     <file name="u725-4.png" crc="424508914" ref="blog"/>
+    <file name="u760-4.png" crc="3798928813" ref="404"/>
+    <file name="u786-4.png" crc="424508914" ref="404"/>
+    <file name="u1406-4.png" crc="385255900" ref="wiadomosci-wrzesinskie"/>
+    <file name="slit shadow 2 sharp.png" crc="510555609" ref="contact"/>
+    <file name="u1700-17.png" crc="4260450822" ref="contact"/>
+    <file name="u1700-17-r.png" crc="4260450822" ref="contact"/>
+    <file name="u1700-17-m.png" crc="4260450822" ref="contact"/>
+    <file name="u1700-17-fs.png" crc="4260450822" ref="contact"/>
+    <file name="imac_ww.png" crc="3913818472" ref="wiadomosci-wrzesinskie"/>
+    <file name="imac_bekart.png" crc="394815297" ref="bekart"/>
+    <file name="u1479-4.png" crc="385255900" ref="bekart"/>
+    <file name="imac_ewa.png" crc="3855956019" ref="ewa-gadomska"/>
+    <file name="u1507-4.png" crc="385255900" ref="ewa-gadomska"/>
+    <file name="u1576-4.png" crc="424508914" ref="about-us"/>
+    <file name="u1573-4.png" crc="3798928813" ref="about-us"/>
   </folder>
-  <file name="index.html" crc="198393200" mt="1388060735558" redirect="true"/>
-  <file name="projects.html" crc="265530919" mt="1388060735561" redirect="true"/>
-  <file name="newspaper.html" crc="3934751285" mt="1388060735563" redirect="true"/>
-  <file name="potfolio.html" crc="4223931599" mt="1388132807317" redirect="true"/>
-  <file name="contact.html" crc="3972105625" mt="1388060735569" redirect="true"/>
-  <file name="jingles.html" crc="291527332" mt="1388060735572" redirect="true"/>
-  <file name="blog.html" crc="3860356924" mt="1388219517335" redirect="true"/>
+  <file name="index.html" crc="4160525640" mt="1390430805190" redirect="true"/>
+  <file name="projects.html" crc="3950575028" mt="1390431434895" redirect="true"/>
+  <file name="potfolio.html" crc="3912800453" mt="1390432342406" redirect="true"/>
+  <file name="contact.html" crc="3933291902" mt="1390432461708" redirect="true"/>
+  <file name="jingles.html" crc="339805417" mt="1389614532076" redirect="true"/>
+  <file name="blog.html" crc="180534363" mt="1389614532081" redirect="true"/>
+  <file name="404.html" crc="261042467" mt="1389614532086" redirect="true"/>
+  <file name="wiadomosci-wrzesinskie.html" crc="4121740977" mt="1390432423212" redirect="true"/>
+  <file name="bekart.html" crc="149769618" mt="1390432442627" redirect="true"/>
+  <file name="ewa-gadomska.html" crc="4182580327" mt="1390432452192" redirect="true"/>
+  <file name="about-us.html" crc="282485056" mt="1390431551904" redirect="true"/>
 </manifest>

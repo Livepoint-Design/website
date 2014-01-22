@@ -7,19 +7,19 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 461px;
+	min-height: 638px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 239px;
+	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #u733
 {
-	z-index: 23;
+	z-index: 24;
 	width: 25px;
 	position: fixed;
 	bottom: 56px;
@@ -28,7 +28,7 @@
 
 #u737
 {
-	z-index: 24;
+	z-index: 25;
 	width: 25px;
 	height: 25px;
 	border-color: #000000;
@@ -42,7 +42,7 @@
 
 #u735
 {
-	z-index: 25;
+	z-index: 26;
 	width: 25px;
 	height: 25px;
 	border-color: #000000;
@@ -57,7 +57,7 @@
 
 #u738
 {
-	z-index: 26;
+	z-index: 27;
 	width: 25px;
 	height: 25px;
 	border-color: #000000;
@@ -72,7 +72,7 @@
 
 #u734
 {
-	z-index: 27;
+	z-index: 28;
 	width: 25px;
 	height: 25px;
 	border-color: #000000;
@@ -87,7 +87,7 @@
 
 #u736
 {
-	z-index: 28;
+	z-index: 29;
 	width: 25px;
 	height: 25px;
 	border-color: #000000;
@@ -100,23 +100,23 @@
 	position: relative;
 }
 
-#u744-4
+#u748
 {
-	z-index: 29;
-	width: 458px;
-	min-height: 379px;
-	padding: 10px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
+	z-index: 2;
+	width: 478px;
+	min-height: 779px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 62px;
+	margin-top: 21px;
 	left: 39px;
 }
 
 #u726
 {
-	z-index: 2;
+	z-index: 3;
 	width: 88px;
 	padding-bottom: 9px;
 	position: fixed;
@@ -127,7 +127,7 @@
 
 #u728
 {
-	z-index: 3;
+	z-index: 4;
 	width: 41px;
 	height: 40px;
 	background: -webkit-gradient(linear, left center, right center, from(#0071BC),color-stop(100%, #00A99D));
@@ -151,7 +151,7 @@
 
 #u732
 {
-	z-index: 4;
+	z-index: 5;
 	width: 41px;
 	height: 40px;
 	background: -webkit-gradient(linear, left center, right center, from(#0071BC),color-stop(100%, #00A99D));
@@ -175,7 +175,7 @@
 
 #u730
 {
-	z-index: 5;
+	z-index: 6;
 	width: 41px;
 	height: 40px;
 	background: -webkit-gradient(linear, left center, right center, from(#0071BC),color-stop(100%, #00A99D));
@@ -199,7 +199,7 @@
 
 #u731
 {
-	z-index: 6;
+	z-index: 7;
 	width: 41px;
 	height: 40px;
 	background: -webkit-gradient(linear, left center, right center, from(#0071BC),color-stop(100%, #00A99D));
@@ -223,7 +223,7 @@
 
 #u729
 {
-	z-index: 7;
+	z-index: 8;
 	width: 41px;
 	height: 40px;
 	background: -webkit-gradient(linear, left center, right center, from(#0071BC),color-stop(100%, #00A99D));
@@ -247,7 +247,7 @@
 
 #u727
 {
-	z-index: 8;
+	z-index: 9;
 	width: 67px;
 	height: 40px;
 	background: -webkit-gradient(linear, left center, right center, from(#0071BC),color-stop(100%, #00A99D));
@@ -267,7 +267,7 @@
 
 #u741
 {
-	z-index: 18;
+	z-index: 19;
 	width: 80px;
 	height: 80px;
 	border-color: #000000;
@@ -284,13 +284,13 @@
 
 #u745-4
 {
-	z-index: 33;
+	z-index: 30;
 	width: 72px;
 	min-height: 25px;
 	text-align: center;
 	line-height: 24px;
-	font-size: 20px;
 	color: #909090;
+	font-size: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: fixed;
@@ -301,13 +301,13 @@
 
 #u746-4
 {
-	z-index: 37;
+	z-index: 34;
 	width: 72px;
 	min-height: 25px;
 	text-align: center;
 	line-height: 24px;
-	font-size: 20px;
 	color: #909090;
+	font-size: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: fixed;
@@ -318,13 +318,13 @@
 
 #u724-4
 {
-	z-index: 19;
+	z-index: 20;
 	width: 76px;
 	min-height: 30px;
 	text-align: center;
 	line-height: 30px;
-	font-size: 25px;
 	color: #909090;
+	font-size: 25px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: fixed;
@@ -335,7 +335,7 @@
 
 #u739
 {
-	z-index: 9;
+	z-index: 10;
 	width: 1431px;
 	height: 2381px;
 	border-color: #000000;
@@ -348,7 +348,7 @@
 
 #u725-4
 {
-	z-index: 10;
+	z-index: 11;
 	display: block;
 	vertical-align: top;
 	position: fixed;
@@ -359,12 +359,12 @@
 
 #u740-4
 {
-	z-index: 14;
+	z-index: 15;
 	width: 455px;
 	min-height: 41px;
-	line-height: 30px;
-	font-size: 25px;
 	color: #909090;
+	font-size: 25px;
+	line-height: 30px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: fixed;
